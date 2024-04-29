@@ -1,5 +1,5 @@
-# AA
-Report on Literature Review: Digitizing Conveyor Belt Systems
+# Report on Literature Review: Digitizing Conveyor Belt Systems
+
 
 Prepared by: Negin Rahnamaei, Master's Student in Informatik
 
