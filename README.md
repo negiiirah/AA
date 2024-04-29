@@ -5,7 +5,7 @@ Prepared by: Negin Rahnamaei, Master's Student in Informatik
 
 Dear Professor Leiding,
 
-I am writing to provide you with a report on the literature review I conducted on digitizing conveyor belt systems as part of my master's studies in informatics. My name is Negin Rahnamaei, and I have undertaken this review to delve into the various aspects of conveyor belt technology and its digital enhancements.
+I am writing to provide you with a report on the literature review I conducted on digitizing conveyor belt systems as part of my master's studies in informatik. My name is Negin Rahnamaei, and I have undertaken this review to delve into the various aspects of conveyor belt technology and its digital enhancements.
 
 The literature review aimed to explore existing research, studies, and projects related to the digitization of conveyor belts. Throughout this process, I meticulously analyzed the development, design advancements, classifications, and maintenance challenges associated with conveyor belt systems across different industrial sectors.
 
